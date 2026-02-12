@@ -41,6 +41,6 @@
 
 <div align="center">
   <h3>📈 Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidharthxNST&theme=react-dark-high-contrast&hide_border=true&area=true" alt="SidharthxNST's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidharthxNST&theme=tokyonight&hide_border=true&area=true" alt="SidharthxNST's Contribution Graph" />
 </div>
 
