@@ -7,6 +7,14 @@
   <p>Trying to learn new things every day | Coding Enthusiast | Learning AI & Advanced Algorithms</p>
 </div>
 
+<p align="center">
+  <img align="center" width="100%" src="https://raw.githubusercontent.com/SidharthxNST/SidharthxNST/main/uploads/GitBanner.gif">
+</p>
+
+<p align="center">
+<img align="center" width="100%" src="https://github.com/SidharthxNST/SidharthxNST/blob/main/uploads/GitBanner.gif">
+</p>
+
 <div align="center">
   
   ## 🛠️ Tech Stack
