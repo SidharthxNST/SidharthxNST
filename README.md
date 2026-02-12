@@ -33,14 +33,17 @@
 <br/>
 
 <div align="center"> 
-  ### 📊 Stats
+  <h2>📊 Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=SidharthxNST&show_icons=true&theme=radical" alt="SidharthxNST's Github Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>📈 Contribution Graph</h3>
+  <h2>📈 Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidharthxNST&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true&area=true" alt="SidharthxNST's Contribution Graph" />
 </div>
+
+  <p align="center"><img src="https://raw.githubusercontent.com/Sahitya0805/Sahitya0805/main/assets/typing_thunder.svg?v=9" width="1200" /></p>
+
 
