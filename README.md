@@ -1,34 +1,38 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Code+Architect;Problem+Destroyer;Future+Tech+Legend" alt="Typing SVG" />
+</div>
 
-<!--
-**SidharthxNST/SidharthxNST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hi There! I'm Sidharth 👋</h1>
+  <p>Trying to learn new things every day | Coding Enthusiast | Learning AI & Advanced Algorithms</p>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  ## 🛠️ Tech Stack
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">⚡ WELCOME TO MY DOMAIN ⚡</h1>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Code+Architect;Problem+Destroyer;Future+Tech+Legend">
-</p>
+<br/>
 
----
-## 🧠 WHO AM I?
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SidharthxNST/SidharthxNST/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SidharthxNST/SidharthxNST/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SidharthxNST/SidharthxNST/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-```diff
-+ Trying to learn new things 
-+ coding
-+ Learning AI & advanced algorithms
+<br/>
 
-```
-
-
-
+<div align="center"> 
+  ### 📊 Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=SidharthxNST&show_icons=true&theme=radical" alt="SidharthxNST's Github Stats" />
+</div>
