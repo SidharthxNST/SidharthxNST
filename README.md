@@ -36,3 +36,11 @@
   ### 📊 Stats
   <img src="https://github-readme-stats.vercel.app/api?username=SidharthxNST&show_icons=true&theme=radical" alt="SidharthxNST's Github Stats" />
 </div>
+
+<br/>
+
+<div align="center">
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidharthxNST&theme=react-dark-high-contrast&hide_border=true&area=true" alt="SidharthxNST's Contribution Graph" />
+</div>
+
